@@ -1,72 +1,71 @@
-# Spots App – React Conversion (AltSchool Africa Assignment)
+# 🧭 Spots App – React Version (AltSchool Assignment) 2nd semester assignment
 
-Welcome to my **React-based personal version of the Spots App** – a conversion assignment for the AltSchool Africa School of Engineering.  
-This project builds upon an earlier group assignment, reimagined and implemented individually in React as instructed by my instructor at AltSchool.
-
----
-
-## Purpose
-
-This project was created as part of an individual assignment to convert the collaborative group project (**Spots App**) into a React-based application.  
-It demonstrates my ability to refactor, modularize, and enhance a previously JavaScript/HTML/CSS project using React, focusing on state management, component architecture, and persistent UI interactivity.
+This is my personal React version of the **Spots App**, created for an individual assignment at **AltSchool Africa – School of Engineering**.  
+It’s a solo rebuild of a group project we did earlier, now built completely with **React**.
 
 ---
 
-## Project Overview
+## 🎯 Purpose
 
-**Spots App** is a responsive social interface inspired by a Figma design, featuring:
+This app was part of my task to turn a group-built HTML/JS app into a **React project**.  
+It shows my skills in:
 
-- **Profile editing** (with image upload)
-- **Creating new posts** (image + title)
-- **Post interaction** (like/unlike)
-- **Image preview modal**
-- **Persistent data** (across reloads)
-
-This version is fully built with React and leverages hooks for state, effects, and DOM interactions.  
-All functionality is modularized into reusable components.
+- Rewriting and organizing code
+- Building with components and React Hooks
+- Making the UI interactive and saving data locally
 
 ---
 
-## Tech Stack
+## 📱 What the App Does
 
-- [x] React (Functional Components, Hooks)
-- [x] JavaScript (ES6+)
-- [x] HTML5 & CSS3 (for layout/styling)
-- [x] Figma (UI reference)
-- [x] LocalStorage (for data persistence)
+The Spots App is a simple social app where you can:
 
----
+- ✏️ Edit your profile (with image)
+- 🖼️ Create posts (image + title)
+- ❤️ Like/unlike posts
+- 🔍 Preview post images
+- 💾 Keep your data after refresh (using local storage)
 
-## Key Features
-
-- ✅ **Responsive layout** based on Figma
-- ✅ **Edit Profile** modal with live updates and persistence
-- ✅ **Create New Post** modal with image upload and validation
-- ✅ **Like/Unlike** posts with UI feedback and persistence
-- ✅ **Image preview** modal for post images
-- ✅ **Modal accessibility:** closes on Escape/outside click
-- ✅ **All data** (profile and posts) **persist** across reloads
-- ✅ **Component-based structure** for maintainability
+Everything is responsive and built using React.
 
 ---
 
-## How to Use / Run
+## 🛠️ Tech Used
 
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Start the development server: `npm start`
-4. Open [http://localhost:3000](http://localhost:3000) to view in browser
-5. Edit your profile, add posts, and interact with the app – all changes persist locally
-
----
-
-## Assignment Context
-
-This React conversion is an **individual assignment** at [AltSchool Africa, School of Engineering].  
-The original Spots App was a group project completed with Circle 13 classmates.  
-This repository demonstrates applying React concepts to solve real UI tasks, enhancing both my learning and portfolio.
+- [x] **React** (Hooks + Components)  
+- [x] **JavaScript (ES6+)**  
+- [x] **HTML5 & CSS3**  
+- [x] **Figma** (for design reference)  
+- [x] **LocalStorage** (to save data)
 
 ---
 
-Thanks for checking out my React conversion of the Spots App!  
-Feedback and suggestions are welcome.
+## ✅ Features
+
+- Responsive layout
+- Edit profile with live changes
+- Create post with image upload
+- Like/unlike posts with feedback
+- Image preview modal
+- Modals close on `Escape` or outside click
+- All data saved locally
+- Code is well-structured using components
+
+---
+
+## ▶️ How to Run
+
+```bash
+# Clone the repo
+git clone <your-repo-url>
+
+# Go into the folder
+cd spots-app
+
+# Install dependencies
+npm install
+
+# Start the server
+npm start
+
+
