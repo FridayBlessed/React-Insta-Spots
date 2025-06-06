@@ -57,7 +57,7 @@ Everything is responsive and built using React.
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/FridayBlessed/React-Insta-Spots.git
 
 # Go into the folder
 cd spots-app
@@ -66,6 +66,14 @@ cd spots-app
 npm install
 
 # Start the server
-npm start
+npm run dev
+
+Then go to http://localhost:5173 in your preferred browser.
+
+```
+
+🌐 [Live Demo](https://react-insta-spots-gamma.vercel.app)
+
+
 
 
