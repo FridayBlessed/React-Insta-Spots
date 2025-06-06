@@ -79,7 +79,7 @@ h6 {
 /* CSS RESET END  */
 
 body {
-  background: #fcf5e5;
+  background: #f9e79f;
 }
 
 .logo-section {
@@ -130,7 +130,7 @@ body {
 }
 
 .hero-text p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 1rem;
   line-height: 100%;
@@ -165,7 +165,7 @@ body {
   height: 52px;
   background-color: #212121;
   border-radius: 8px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 1rem;
   line-height: 100%;
@@ -193,7 +193,7 @@ hr {
 }
 
 .card_text p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 1.25rem;
   line-height: 120%;
@@ -234,7 +234,7 @@ section > * {
 }
 
 footer {
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 100%;
@@ -300,7 +300,7 @@ input{
 }
 
 label{
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 100%;
@@ -309,7 +309,7 @@ label{
 }
 
 h2{
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 1.5rem;
   line-height: 100%;
@@ -320,7 +320,7 @@ h2{
 
 .modal-btn{
   cursor: pointer;
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 100%;
@@ -388,7 +388,7 @@ h2{
 }
 
 #previewTitle{
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 1.25rem;
   line-height: 120%;
@@ -415,7 +415,7 @@ h2{
 
   .hero-text h1 {
     text-align: center;
-    font-family: "Poppins", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 100%;
@@ -447,7 +447,7 @@ h2{
     height: 52px;
     background-color: #212121;
     border-radius: 8px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 1rem;
     line-height: 100%;
