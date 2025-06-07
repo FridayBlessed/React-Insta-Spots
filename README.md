@@ -1,4 +1,4 @@
-# 🧭 Spots App – React Version (AltSchool Assignment) 2nd semester assignment
+# 🧭 Spots App – React Version (AltSchool Assignment) 2nd semester.
 
 This is my personal React version of the **Spots App**, created for an individual assignment at **AltSchool Africa – School of Engineering**.  
 It’s a solo rebuild of a group project we did earlier, now built completely with **React**.
