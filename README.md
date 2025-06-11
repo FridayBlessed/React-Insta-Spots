@@ -35,8 +35,7 @@ Everything is responsive and built using React.
 - [x] **React** (Hooks + Components)  
 - [x] **JavaScript (ES6+)**  
 - [x] **HTML5 & CSS3**  
-- [x] **Figma** (for design reference)  
-- [x] **LocalStorage** (to save data)
+
 
 ---
 
@@ -73,6 +72,9 @@ Then go to http://localhost:5173 in your preferred browser.
 ```
 
 🌐 [Live Demo](https://react-insta-spots-gamma.vercel.app)
+
+## AUTHOR 
+[FridayBlessed](https://Github.com/FridayBlessed)
 
 
 
