@@ -1,11 +1,11 @@
-# 🧭 Spots App – React Version (AltSchool Assignment) 2nd semester.
+#  Spots App – React Version (AltSchool Assignment) 2nd semester.
 
 This is my personal React version of the **Spots App**, created for an individual assignment at **AltSchool Africa – School of Engineering**.  
 It’s a solo rebuild of a group project we did earlier, now built completely with **React**.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This app was part of my task to turn a group-built HTML/JS app into a **React project**.  
 It shows my skills in:
@@ -16,21 +16,21 @@ It shows my skills in:
 
 ---
 
-## 📱 What the App Does
+##  What the App Does
 
 The Spots App is a simple social app where you can:
 
-- ✏️ Edit your profile (with image)
-- 🖼️ Create posts (image + title)
-- ❤️ Like/unlike posts
-- 🔍 Preview post images
-- 💾 Keep your data after refresh (using local storage)
+-  Edit your profile (with image)
+-  Create posts (image + title)
+-  Like/unlike posts
+-  Preview post images
+-  Keep your data after refresh (using local storage)
 
 Everything is responsive and built using React.
 
 ---
 
-## 🛠️ Tech Used
+##  Tech Used
 
 - [x] **React** (Hooks + Components)  
 - [x] **JavaScript (ES6+)**  
@@ -39,7 +39,7 @@ Everything is responsive and built using React.
 
 ---
 
-## ✅ Features
+##  Features
 
 - Responsive layout
 - Edit profile with live changes
@@ -52,7 +52,7 @@ Everything is responsive and built using React.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 # Clone the repo
